@@ -35,6 +35,11 @@ header ul.contacts li a:hover svg {fill:#5d93ff;}
 footer {text-align:center;font-size:14px;padding:8px 0;border-top:1px solid rgb(230,230,230);}
 footer .wrap {max-width:1024px;margin:0 auto;}
 
+._404 {margin:0 auto;height:100%;max-width:800px;}
+._404 section {padding:48px 8px;}
+._404 section h1 {font-size:2em;margin:0.67em 0px;}
+._404 section p {}
+
 .about .wrap {max-width:1024px;margin:0 auto;}
 .about section {padding:20px 20px;position:relative;}
 .about section .line {margin:16px 0;display:block;width:100%;}
@@ -160,6 +165,7 @@ footer .wrap {max-width:1024px;margin:0 auto;}
   font-size: 14px;
   display: block;
   border-radius: 6px;
+  cursor: pointer;
 }
 
 .tools .left li.active a {

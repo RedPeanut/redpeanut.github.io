@@ -115,7 +115,8 @@
 }
 #behindresult01 {
   background-image:url(../img/img_bg_eyeicon.png), url(../img/img_bg_transparent.gif);
-  background-repeat:no-repeat, repeat;background-position:center, top left;
+  background-repeat:no-repeat, repeat;
+  background-position:center, top left;
   background-color:#ffffff;
 }
 #resultTable {

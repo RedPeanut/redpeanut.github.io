@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-tsx",
+    "path": "/리눅스 따라하기/",
+    "result": {"data":{"markdownRemark":{"html":"","excerpt":"","timeToRead":1,"fields":{"slug":"/리눅스 따라하기/"},"frontmatter":{"title":"리눅스 따라하기","date":"2022년 10월 09일","category":"gallery"}}},"pageContext":{"slug":"/리눅스 따라하기/","previous":{"fields":{"slug":"/소형+가치주/"}},"next":{"fields":{"slug":"/DIFF/"}}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-tsx",
+    "path": "/애니팡 따라하기/",
+    "result": {"data":{"markdownRemark":{"html":"","excerpt":"","timeToRead":1,"fields":{"slug":"/애니팡 따라하기/"},"frontmatter":{"title":"애니팡 따라하기","date":"2022년 10월 09일","category":"gallery"}}},"pageContext":{"slug":"/애니팡 따라하기/","previous":{"fields":{"slug":"/퓨리에변환/"}},"next":{"fields":{"slug":"/소형+가치주/"}}}},
+    "staticQueryHashes": []}

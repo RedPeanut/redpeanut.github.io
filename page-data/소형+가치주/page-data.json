@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-tsx",
+    "path": "/소형+가치주/",
+    "result": {"data":{"markdownRemark":{"html":"","excerpt":"","timeToRead":1,"fields":{"slug":"/소형+가치주/"},"frontmatter":{"title":"소형+가치주","date":"2022년 10월 09일","category":"gallery"}}},"pageContext":{"slug":"/소형+가치주/","previous":{"fields":{"slug":"/애니팡 따라하기/"}},"next":{"fields":{"slug":"/리눅스 따라하기/"}}}},
+    "staticQueryHashes": []}

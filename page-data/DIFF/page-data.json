@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-tsx",
+    "path": "/DIFF/",
+    "result": {"data":{"markdownRemark":{"html":"<h1>중제목</h1>\n<ul>\n<li>소제목1</li>\n<li>소제목2</li>\n</ul>\n<div class=\"gatsby-highlight\" data-language=\"js\"><pre class=\"language-js\"><code class=\"language-js\"></code></pre></div>\n<blockquote>\n<p>문장을 입력해 봅니다.</p>\n</blockquote>\n<ol>\n<li>항목이 들어갑니다.</li>\n<li>항목이 들어갑니다.</li>\n<li>항목이 들어갑니다.</li>\n</ol>","excerpt":"중제목 소제목1 소제목2 문장을 입력해 봅니다. 항목이 들어갑니다. 항목이 들어갑니다. 항목이 들어갑니다.","timeToRead":1,"fields":{"slug":"/DIFF/"},"frontmatter":{"title":"DIFF","date":"2022년 10월 09일","category":"gallery"}}},"pageContext":{"slug":"/DIFF/","previous":{"fields":{"slug":"/리눅스 따라하기/"}},"next":{"fields":{"slug":"/DHT/"}}}},
+    "staticQueryHashes": []}
